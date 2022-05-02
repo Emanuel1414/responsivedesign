@@ -1,0 +1,13 @@
+https://correotemporal.org/
+https://fontawesome.com/
+
+<div class="precio">
+                    <i class="fa-solid fa-cart-arrow-down fa-5x"></i>
+                </div>
+
+
+ background-image: url(Img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
